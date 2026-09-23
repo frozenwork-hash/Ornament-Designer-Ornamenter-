@@ -1,0 +1,12 @@
+{
+  "name": "Grid",
+  "type": "grid",
+  "params": {
+    "cols": 4,
+    "rows": 3,
+    "step_x": 400,
+    "step_y": 300,
+    "mirror_alternate": true
+  },
+  "color_shift": { "enabled": false }
+}

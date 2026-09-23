@@ -1,0 +1,20 @@
+{
+  "name": "Zigzag Strip",
+  "type": "linear",
+  "params": {
+    "count": 8,
+    "step_x": 200,
+    "step_y": 60,
+    "rotation_per_step": 0,
+    "scale_per_step": 1.0,
+    "mirror_alternate": true,
+    "invert_alternate": false
+  },
+  "color_shift": {
+    "enabled": true,
+    "hue_shift_per_step": 15,
+    "saturation_shift": 5,
+    "lightness_shift": 0,
+    "alpha_shift": 0
+  }
+}

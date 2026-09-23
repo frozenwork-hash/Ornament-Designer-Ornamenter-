@@ -1,0 +1,20 @@
+{
+  "name": "Vanishing Corridor",
+  "type": "linear",
+  "params": {
+    "count": 14,
+    "step_x": 0,
+    "step_y": 0,
+    "rotation_per_step": 0,
+    "scale_per_step": 0.9,
+    "mirror_alternate": false,
+    "invert_alternate": false
+  },
+  "color_shift": {
+    "enabled": true,
+    "hue_shift_per_step": 0,
+    "saturation_shift": 0,
+    "lightness_shift": 2,
+    "alpha_shift": -3
+  }
+}

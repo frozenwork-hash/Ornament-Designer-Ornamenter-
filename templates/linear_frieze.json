@@ -1,0 +1,22 @@
+{
+  "name": "Frieze",
+  "type": "linear",
+  "params": {
+    "count": 10,
+    "step_x": 200,
+    "step_y": 0,
+    "rotation_per_step": 0,
+    "scale_per_step": 1.0,
+    "mirror_alternate": true,
+    "invert_alternate": true,
+    "pivot_x": 400,
+    "pivot_y": 300
+  },
+  "color_shift": {
+    "enabled": false,
+    "hue_shift_per_step": 0,
+    "saturation_shift": 0,
+    "lightness_shift": 0,
+    "alpha_shift": 0
+  }
+}

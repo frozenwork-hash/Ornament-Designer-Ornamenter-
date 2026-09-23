@@ -1,0 +1,146 @@
+{
+  "lines": [
+    {
+      "type": "arc",
+      "start": [
+        200,
+        100
+      ],
+      "end": [
+        200,
+        500
+      ],
+      "bend": -40.0,
+      "color": [
+        0,
+        0,
+        0,
+        255
+      ],
+      "width": 2.0,
+      "z": 0,
+      "dash_pattern": [],
+      "dash_offset": 0.0,
+      "cap_style": "round",
+      "join_style": "round",
+      "opacity": 1.0
+    },
+    {
+      "type": "arc",
+      "start": [
+        600,
+        100
+      ],
+      "end": [
+        600,
+        500
+      ],
+      "bend": 40.0,
+      "color": [
+        0,
+        0,
+        0,
+        255
+      ],
+      "width": 2.0,
+      "z": 1,
+      "dash_pattern": [],
+      "dash_offset": 0.0,
+      "cap_style": "round",
+      "join_style": "round",
+      "opacity": 1.0
+    },
+    {
+      "type": "arc",
+      "start": [
+        200,
+        100
+      ],
+      "end": [
+        600,
+        500
+      ],
+      "bend": 100.0,
+      "color": [
+        0,
+        0,
+        0,
+        255
+      ],
+      "width": 2.0,
+      "z": 2,
+      "dash_pattern": [],
+      "dash_offset": 0.0,
+      "cap_style": "round",
+      "join_style": "round",
+      "opacity": 1.0
+    },
+    {
+      "type": "arc",
+      "start": [
+        600,
+        100
+      ],
+      "end": [
+        200,
+        500
+      ],
+      "bend": -100.0,
+      "color": [
+        0,
+        0,
+        0,
+        255
+      ],
+      "width": 2.0,
+      "z": 3,
+      "dash_pattern": [],
+      "dash_offset": 0.0,
+      "cap_style": "round",
+      "join_style": "round",
+      "opacity": 1.0
+    }
+  ],
+  "base_points": [
+    [
+      200,
+      100
+    ],
+    [
+      200,
+      200
+    ],
+    [
+      200,
+      300
+    ],
+    [
+      200,
+      400
+    ],
+    [
+      200,
+      500
+    ],
+    [
+      600,
+      100
+    ],
+    [
+      600,
+      200
+    ],
+    [
+      600,
+      300
+    ],
+    [
+      600,
+      400
+    ],
+    [
+      600,
+      500
+    ]
+  ]
+}

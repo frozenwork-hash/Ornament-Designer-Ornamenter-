@@ -1,0 +1,18 @@
+{
+  "name": "Checkerboard",
+  "type": "grid",
+  "params": {
+    "cols": 6,
+    "rows": 6,
+    "step_x": 200,
+    "step_y": 200,
+    "mirror_alternate": true
+  },
+  "color_shift": {
+    "enabled": true,
+    "hue_shift_per_step": 10,
+    "saturation_shift": 0,
+    "lightness_shift": 0,
+    "alpha_shift": 0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Spiral Chain",
+  "type": "linear",
+  "params": {
+    "count": 18,
+    "step_x": 40,
+    "step_y": 0,
+    "rotation_per_step": 12,
+    "scale_per_step": 1.03,
+    "mirror_alternate": false,
+    "invert_alternate": false
+  },
+  "color_shift": {
+    "enabled": true,
+    "hue_shift_per_step": 20,
+    "saturation_shift": 0,
+    "lightness_shift": -1,
+    "alpha_shift": 0
+  }
+}

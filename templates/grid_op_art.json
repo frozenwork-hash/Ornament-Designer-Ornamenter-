@@ -1,0 +1,18 @@
+{
+  "name": "Op Art",
+  "type": "grid",
+  "params": {
+    "cols": 8,
+    "rows": 8,
+    "step_x": 120,
+    "step_y": 120,
+    "mirror_alternate": true
+  },
+  "color_shift": {
+    "enabled": true,
+    "hue_shift_per_step": 7,
+    "saturation_shift": 8,
+    "lightness_shift": -0.5,
+    "alpha_shift": 0
+  }
+}

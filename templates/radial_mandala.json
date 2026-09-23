@@ -1,0 +1,18 @@
+{
+  "name": "Mandala",
+  "type": "radial",
+  "params": {
+    "count": 16,
+    "center_x": 400,
+    "center_y": 300,
+    "angle_step": 22.5,
+    "radius_step": 0
+  },
+  "color_shift": {
+    "enabled": true,
+    "hue_shift_per_step": 22.5,
+    "saturation_shift": 0,
+    "lightness_shift": 0,
+    "alpha_shift": 0
+  }
+}
