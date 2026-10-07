@@ -54,7 +54,7 @@ Everything else — file I/O, geometry, color math, raster and vector export —
 
 ```bash
 # 1. Clone or unpack the project
-git clone https://github.com/<your-username>/ornament-designer.git
+git clone https://github.com/frozenwork-hash/Ornament-Designer-Ornamenter-.git
 cd ornament-designer
 
 # 2. (Optional but recommended) create a virtual environment
